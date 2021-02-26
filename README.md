@@ -4,9 +4,9 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusalkimin/)](link_do_seu_perfil_no_linkedin)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusalkimin)]
 
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964248736&text=Ol%C3%A1%2C%20aqui%20%C3%A9%20o%20Vinicius%20Alkimin%2C%20tudo%20bem%3F/)](link_do_seu_perfil_no_Whatsapp)
+[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964248736&text=Ol%C3%A1%2C%20aqui%20%C3%A9%20o%20Vinicius%20Alkimin%2C%20tudo%20bem%3F/)](link_do_seu_perfil_no_Whatsapp)]
 
 <!--
 **viniciusalkimin/viniciusalkimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
