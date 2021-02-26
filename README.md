@@ -1,6 +1,6 @@
 
-# Olá galera,
-#Sou o Vinicius Alkimin, seja bem-vindo ao meu perfil. 😄
+##Olá galera,##
+#Sou o Vinicius Alkimin, seja bem-vindo ao meu perfil. 😄#
 
 Estou a procura de uma oportunidade como Front-end e Back-end Developer.
 
