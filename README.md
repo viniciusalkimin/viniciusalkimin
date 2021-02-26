@@ -1,12 +1,11 @@
 ### Hi there,
 I'm Vinícius Alkimin😄
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusalkimin/)](link_do_seu_perfil_no_linkedin)
+
 <!--
 **viniciusalkimin/viniciusalkimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />]
-
-<img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
