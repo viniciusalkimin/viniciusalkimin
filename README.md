@@ -7,8 +7,6 @@
 Se conecte ao meu Perfil do Linkedin --> 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusalkimin/)
 
-<!--![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusalkimin)
-
 # Tecnologia
 
 Estou estudando as seguintes técnologias para desenvolvimento Web --->
@@ -27,4 +25,3 @@ Estou estudando as seguintes técnologias para desenvolvimento Web --->
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
