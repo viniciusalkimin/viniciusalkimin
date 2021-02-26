@@ -4,7 +4,7 @@
 
 *Estou a procura de uma oportunidade como Front-end e Back-end Developer.*
 
-Se conecte ao meu Perfil do Linkedin:
+Se conecte ao meu Perfil do Linkedin ou me mande um e-mail:
 
 <a href="https://www.linkedin.com/in/viniciusalkimin/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
