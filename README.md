@@ -1,7 +1,10 @@
 
-## Hi there,
-###I am Vinícius Alkimin😄
+# Olá galera,
+#Sou o Vinicius Alkimin, seja bem-vindo ao meu perfil. 😄
 
+Estou a procura de uma oportunidade como Front-end e Back-end Developer.
+
+Se conecte ao meu Perfil do Linkedin Abaixo!
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusalkimin/)
 
 <!--![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusalkimin)
