@@ -9,7 +9,7 @@ Se conecte ao meu Perfil do Linkedin:
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusalkimin/)
 
-# Tecnologias
+🚀# Skills
 Desenvolvimento WEB:
 
 
