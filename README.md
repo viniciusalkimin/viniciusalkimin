@@ -6,7 +6,7 @@ I'm Vinícius Alkimin😄
 
 
 
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+<img src="	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
