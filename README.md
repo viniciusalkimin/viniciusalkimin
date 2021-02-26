@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hi there,
+I'm Vinícius Alkimin😄
 
 <!--
 **viniciusalkimin/viniciusalkimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
