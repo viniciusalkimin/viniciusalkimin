@@ -9,11 +9,14 @@ Se conecte ao meu Perfil do Linkedin -->
 
 <!--![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusalkimin)
 
-<!--
-[![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511964248736&text=Ol%C3%A1%2C%20aqui%20%C3%A9%20o%20Vinicius%20Alkimin%2C%20tudo%20bem%3F/)](link_do_seu_perfil_no_Whatsapp)]
+# Tecnologia
 
-<!--
-**viniciusalkimin/viniciusalkimin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
+*Estou estudando as seguintes técnologias para desenvolvimento Web --->*
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
 
 
 - 🔭 I’m currently working on ...
