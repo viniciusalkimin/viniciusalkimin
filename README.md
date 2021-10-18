@@ -2,7 +2,6 @@
 # Olá galera,
 ## Sou o Vinicius Alkimin, seja bem-vindo ao meu perfil. 😄
 
-*Estou a procura de uma oportunidade para Desenvolvedor Jr.*
 
 Se conecte ao meu Perfil do Linkedin, acesse meu site ou me mande um e-mail:
 
