@@ -3,7 +3,7 @@
 ## Sou o Vinicius Alkimin, seja bem-vindo ao meu perfil. 😄
 
 
-Se conecte ao meu Perfil do Linkedin, acesse meu site ou me mande um e-mail:
+Se conecte ao meu Perfil do Linkedin:
 
 <a href="https://www.linkedin.com/in/viniciusalkimin/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
