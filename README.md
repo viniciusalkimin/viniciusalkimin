@@ -8,12 +8,6 @@ Se conecte ao meu Perfil do Linkedin, acesse meu site ou me mande um e-mail:
 <a href="https://www.linkedin.com/in/viniciusalkimin/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://viniciusalkimin.github.io/">
-<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
-</a>
-<a href="mailto:viniciusg_alkimin@hotmail.com">
-<img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
-</a>
 
 # 🚀Skills
 
