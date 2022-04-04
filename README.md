@@ -11,7 +11,7 @@ Se conecte ao meu Perfil do Linkedin:
 
 # 🚀Skills
 
-Desenvolvo com as seguintes tecnologias:
+Uso as seguintes tecnologias no meu dia a dia:
 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![SPRING](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
